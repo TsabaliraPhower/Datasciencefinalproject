@@ -31,8 +31,7 @@ def get_filters():
     # get user input for month (all, january, february, ... , june)
     filters = input('Would you like to filter the data by month and day or none? Type "none" if you do not want to filter. \n')
     if filters == "None" or filters.lower() == "none":
-        month = 'none'
-        day = 'none'
+        month = day = 'none'
         return city.lower(), month, day
     else:
         month = input('Please select a month you would like to explore (January to June). Please use this formart Jan Feb Mar Apr May Jun\n')
