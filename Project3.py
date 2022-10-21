@@ -158,7 +158,7 @@ def user_stats(df):
         genders = dict(df['Gender'].value_counts())
         print(genders)
     except:
-        print('Sorry! Washington does not have Gender data.\n')
+        print('No gender for Washington.\n')
 
     # Display earliest, most recent, and most common year of birth
 
