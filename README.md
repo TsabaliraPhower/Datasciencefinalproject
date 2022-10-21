@@ -9,7 +9,8 @@
 USA Bike Share Project
 
 ### Description
-Describe what your project is about and what it does
+
+This is project is the bike share filtering tool with user interface to accept inputs and execute accordingly.
 
 ### Files used
 Include the files used
