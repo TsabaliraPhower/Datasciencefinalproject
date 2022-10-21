@@ -1,3 +1,4 @@
+#The aim of this project is to navigate thriugh data with user interface
 import time
 import pandas as pd
 import numpy as np
