@@ -13,8 +13,15 @@ USA Bike Share Project
 This is project is the bike share filtering tool with user interface to accept inputs and execute accordingly.
 
 ### Files used
-Include the files used
+
+Sublime Text
+
+Anaconda Package
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+Data used:
+
+https://ride.divvybikes.com/system-data
+
 
